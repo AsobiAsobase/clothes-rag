@@ -1,8 +1,8 @@
-streamlit
-langchain==0.1.17
+streamlit==1.32.2
+langchain==0.1.20
 langchain-core
 langchain-community==0.035
 dashscope
-chromadb==0.4.24
+chromadb==0.4.25
 nltk
 langchain-chroma
