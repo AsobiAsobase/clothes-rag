@@ -6,4 +6,3 @@ dashscope
 chromadb
 nltk
 langchain-chroma
-pyaqlite3-binary
