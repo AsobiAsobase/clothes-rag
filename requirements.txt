@@ -3,6 +3,6 @@ langchain
 langchain-core
 langchain-community
 dashscope
-chromadb==0.4.22
+chromadb
 nltk
 langchain-chroma
