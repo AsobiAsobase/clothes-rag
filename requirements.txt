@@ -5,3 +5,4 @@ langchain-community
 dashscope
 chromadb
 nltk
+langchain-chroma
