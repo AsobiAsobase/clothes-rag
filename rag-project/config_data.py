@@ -1,6 +1,4 @@
 from nltk.metrics.aline import similarity_matrix
-from ollama import embeddings
-
 md5_path = "./md5.text"
 #Chroma
 collection_name = "rag"
