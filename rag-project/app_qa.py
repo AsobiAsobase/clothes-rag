@@ -2,7 +2,9 @@ import streamlit as st
 import time
 from rag import RagService
 import config_data as config
-
+import pysqlite3
+import sys
+sys.modules['sqlite3'] = pysqlite3
 # 标题
 st.title("智能客服")
 st.divider()
